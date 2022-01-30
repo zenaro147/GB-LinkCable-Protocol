@@ -5,7 +5,7 @@
 - Gameboy Advance (as secondary) with GameBoy Pocket Camera cartridge
 - [NeoGB Printer](https://github.com/zenaro147/NeoGB-Printer) (to act as Gameboy Printer)
 
-## Samples captures
+## Samples captured
 - Print picture
 - Album Full erros (as Sender and Receiver Hosting)
 - Sending Picture
