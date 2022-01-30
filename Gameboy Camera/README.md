@@ -11,4 +11,5 @@
 - Cancelling Transfer (pressing B during the picture selection)
 
 ## Notes
-- When the Receiver press A during the Transfer Selection (select if you want to Send or Receive a picture) the Receiver will select the pincture instead the Sender (downloading the Sender album data). The sender just need to confirm the transer after selecting the Picture.
+- The sample contains all communications between the devices, including the confirmations.
+- When the Receiver press A during the Transfer Method Selection (select if you want to Send or Receive a picture) the Receiver will select the pincture instead the Sender (downloading the Sender album data). The sender just need to confirm the transer after the Receiver select a Picture.
