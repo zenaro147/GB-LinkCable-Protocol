@@ -7,8 +7,8 @@
 
 ## Samples captured
 - Print picture
-- Album Full erros (as Sender and Receiver Hosting)
-- Sending Picture
+- Album Full erros during transfer (as Sender and Receiver Hosting)
+- Send Picture
 - Receive Picture  (as Sender and Receiver Hosting)
 - Cancelling Transfer (pressing B during the picture selection)
 
