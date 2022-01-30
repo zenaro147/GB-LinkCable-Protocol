@@ -1,4 +1,4 @@
-#GameBoy Camera/Pocket Camera Protocol
+# GameBoy Camera/Pocket Camera Protocol
 
 ## Equipament used
 - Gameboy Color (as primary device. All captured data refers to it) with GameBoy Camera cartridge
