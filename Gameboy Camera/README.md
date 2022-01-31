@@ -18,4 +18,4 @@
 - When the Receiver press A during the Transfer Method Selection (selecting if you want to Send or Receive a picture) the Receiver will select the pincture instead the Sender (downloading the Sender album data). The sender just need to confirm the transer after the Receiver select a Picture.
 - All tests was made using this image as example 
 
-![Image Hello Kitty](00161.png)
+![Image Hello Kitty](Example/00161.png)
