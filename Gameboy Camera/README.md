@@ -12,6 +12,7 @@
 - Receive Picture (as Sender and Receiver Hosting)
 - Receive Picture with custom border (as Sender Hosting). Using border 18
 - Cancelling Transfer (pressing B during the picture selection)
+- Samples transfering a Fully Black Image
 
 ## Notes
 - The sample contains all communications between the devices, including the confirmations.
