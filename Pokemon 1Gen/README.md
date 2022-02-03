@@ -17,3 +17,4 @@
 - During Trade/Battle between versions, Pokémon Blue is on Gameboy Color. Pokémon Red is on Gameboy Advance.
 - Both Pokémons have only the initials moveset (Scratch/Tackle and Grown/Tail whip)
 - During the battle between versions, the winner is the GBA (if I remember correctly)
+- Both Pokemons don't have nicknames
