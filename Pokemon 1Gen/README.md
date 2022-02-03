@@ -15,5 +15,4 @@
 - Both Pokémons have level 6
 - During Trade/Battle between versions, Pokémon Blue is on Gameboy Color. Pokémon Red is on Gameboy Advance.
 - Both Pokémons have only the initials moveset (Scratch/Tackle and Grown/Tail Whip)
-- During the battle between versions, the winner is the GBC (the last Charmander attack was a Critical Hit)
 - Both Pokemons don't have nicknames
