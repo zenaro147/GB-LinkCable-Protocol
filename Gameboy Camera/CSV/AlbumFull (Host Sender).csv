@@ -1,2 +1,5 @@
-Time [s],Packet ID,MOSI,MISO
-0.933794291666667,,0x12,0x29
+name,type,start_time,duration,"mosi","miso"
+"SPI SO","result",0.185529917,0.000915625,0x00,0xBD
+"SPI SI","result",0.185529917,0.000915625,0x12,0x00
+"SPI SO","result",0.186919458,0.000915625,0x00,0x81
+"SPI SI","result",0.186919458,0.000915625,0x5E,0x00
