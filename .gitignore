@@ -1,3 +1,7 @@
 
 output.txt
 /Gameboy Camera/Logic 1.x/*
+GameBoy Link Emulator/SimpleArray.cpp
+GameBoy Link Emulator/SimpleArray.h
+GameBoy Link Emulator/SlaveSPI.cpp
+GameBoy Link Emulator/SlaveSPI.h
